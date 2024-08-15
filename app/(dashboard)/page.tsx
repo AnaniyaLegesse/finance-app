@@ -3,8 +3,8 @@ import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return(
-    <Button>
-      click me
-    </Button>
+    <div>
+      This is a protected route!
+    </div>
   );
 }
